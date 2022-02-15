@@ -1,16 +1,15 @@
-# order_app
+# Order App UI | Mobile and Table
 
 This is an order app design UI using by flutter.
 
-## Getting Started
+## Usage Launch Web:
 
-This project is a starting point for a Flutter application.
+    $ flutter run -d chrome
 
-A few resources to get you started if this is your first Flutter project:
+## UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/1e08247a5b41971fce50.png" width="400" height="700">
+<img src="screenshots/277313016c3aa064f92b.png" width="400" height="700">
+<img src="screenshots/8a0d807fff44331a6a55.png" width="400" height="700">
+<img src="screenshots/table.png" width="700" height="800">
+<img src="screenshots/table1.png" width="700" height="800">
